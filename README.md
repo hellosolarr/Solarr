@@ -24,10 +24,10 @@ To get started with LittleScriptX, follow these steps:
 
 ```python
 # Sample Python code demonstrating how to use LittleScriptX for secure web requests
-import littlescriptx
+import littlescript3
 
 # Create a LittleScriptX client
-client = littlescriptx.Client()
+client = littlescript3.Client()
 
 # Make a secure web request
 response = client.make_request("https://example.com")
