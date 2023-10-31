@@ -20,11 +20,11 @@ Here we have a screenshot of the IDE:
 
 To get started with LittleScriptX, follow these steps:
 
-1. **Installation:** You can install LittleScriptX by [instructions here](link-to-installation-guide).
+1. **Installation:** You can install LittleScriptX by [instructions here](littlescript.com/documentation/installation-guide).
 
-2. **Configuration:** Configure LittleScriptX to your requirements. You can find detailed instructions in the [configuration documentation](link-to-configuration-doc).
+2. **Configuration:** Configure LittleScriptX to your requirements. You can find detailed instructions in the [configuration documentation](littlescript.com/documentation/configuration-doc).
 
-3. **Usage:** Learn how to use LittleScriptX for secure web requests and proxy server management in the [user guide](link-to-user-guide).
+3. **Usage:** Learn how to use LittleScriptX for secure web requests and proxy server management in the [user guide](littlescript.com/documentation/user-guide).
 
 ## Usage
 
