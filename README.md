@@ -2,6 +2,8 @@
 
 LittleScriptX offers advanced features for web automation, data extraction, and IP rotation, enhancing privacy. Its unique capabilities enable users to access addresses discreetly and securely, safeguarding their online activities.
 
+![Screenshot of LittleScript IDE](https://www.example.com/image.jpg)
+
 ## Features
 
 - **Secure Web Requests:** LittleScriptX prioritizes data security by employing robust encryption and authentication measures. It ensures the confidentiality and integrity of your data, safeguarding against unauthorized access or tampering.
