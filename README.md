@@ -8,7 +8,7 @@ LittleScriptX offers advanced features for web automation, data extraction, and 
 
 - **Proxy Server Management:** Easily manage proxy servers for your web requests, enhancing privacy and access control.
 
-- **Customization:** Tailor LittleScriptX to your specific needs with configurable settings and options.
+- **Customization:** LittleScriptX is highly adaptable, allowing you to tailor the system to your unique requirements. With a wide array of configurable settings and options, users can fine-tune the tool to match their specific use cases. Whether you need to adjust request headers, automate specific actions, or optimize performance, LittleScriptX offers the flexibility to meet your needs precisely. This customization empowers you to optimize your web requests for various tasks, from web scraping to API interactions, making it a versatile and powerful tool for your online endeavors.
 
 ## Getting Started
 
