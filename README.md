@@ -23,10 +23,10 @@ To get started with LittleScriptX, follow these steps:
 ## Usage
 
 ```python
-# Sample Python code demonstrating how to use LittleScriptX for secure web requests
+# Sample Python code demonstrating how to use LittleScript3 for secure web requests
 import littlescript3
 
-# Create a LittleScriptX client
+# Create a LittleScript3 client
 client = littlescript3.Client()
 
 # Make a secure web request
