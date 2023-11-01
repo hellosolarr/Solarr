@@ -1,6 +1,6 @@
 # Welcome to the official LittleScriptX repo
 
-LittleScriptX offers advanced features for web automation, data extraction, and IP rotation, enhancing privacy. Its unique capabilities enable users to access addresses discreetly and securely, safeguarding their online activities, executing every line of code in a safe & secure MicroVM.
+LittleScriptX offers advanced features for web automation, data extraction, and IP rotation, enhancing privacy. Its unique capabilities enable users to access addresses discreetly and securely, safeguarding their online activities, executing every line of code in a cloud-based MicroVM.
 
 ## Screenshot
 
