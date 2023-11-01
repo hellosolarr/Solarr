@@ -29,11 +29,15 @@ To get started with LittleScriptX, follow these steps:
 ## Usage
 
 ```python
-# Sample Python code demonstrating how to use LittleScript3 for secure web requests
-import littlescript3
+# Sample Python code demonstrating how to use LittleScriptX for secure web requests
 
-# Create a LittleScript3 client
-client = littlescript3.Client()
+import littlescriptx
+
+# Replace 'your_api_key_here' with your actual API key
+api_key = 'your_api_key_here'
+
+# Create a LittleScriptX client with your API key
+client = littlescriptx.Client(api_key)
 
 # Make a secure web request
 response = client.make_request("https://example.com")
