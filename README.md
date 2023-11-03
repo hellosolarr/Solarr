@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <script>
-    window.location.href = 'web/index.html'; // Change the URL to the page you want to redirect to
-  </script>
-</head>
-<body>
-  <p>If you are not redirected, <a href="web/index.html">click here</a>.</p>
-</body>
-</html>
-
 # Welcome to the official Solarr repo
 
 Solarr offers advanced features for web automation, data extraction, and IP rotation, enhancing privacy. Its unique capabilities enable users to access addresses discreetly and securely, safeguarding their online activities, executing every line of code in a cloud-based MicroVM.
